@@ -5,6 +5,9 @@ Projekt stanowi zaawansowany system wspomagania decyzji, który wykorzystuje met
 
 Głównym celem systemu jest wsparcie twórców i producentów w procesie budowania koncepcji filmowych oraz optymalizacja decyzji biznesowych poprzez analizę historycznych danych kinematograficznych. 
 
+## Źródło danych
+Modele analityczne w tym projekcie zostały wytrenowane w oparciu o historyczne dane kinematograficzne pobrane z platformy Kaggle.
+
 ## Główne funkcjonalności
 * **Predykcja sukcesu:** Ocena potencjału komercyjnego filmu na podstawie wybranych cech.
 * **Analiza kombinacji:** Badanie wpływu połączeń różnych elementów (np. specyficzne gatunki w zestawieniu z konkretnymi reżyserami) na końcowy sukces.
